@@ -18,6 +18,9 @@ star: true
 # SMB
 
 
+![image](https://user-images.githubusercontent.com/63791726/223665225-8b8286bf-eab5-4061-bbc3-c455ebc0820b.png)
+
+
 
 是把smb挂载到Alist，而不是Alist通过smb共享出来，而不是smb能像webdav共享出来。
 
